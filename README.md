@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Science Salary Dashboard
 
 This project showcases a Tableau dashboard analyzing global salary trends in the data science field.
@@ -27,3 +28,6 @@ Contact
 Drashti Sakhareliya
 drashtisakhareliya@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/drashti-sakhareliya-55b92b221)
+=======
+# Ds_salaries_Dashboard
+>>>>>>> beef8e96199dbf7c4497b9afaf0ca08c3adf4cb4
